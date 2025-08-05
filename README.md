@@ -1,3 +1,3 @@
 # True-or-False-quiz
 
-Open Quiz and go to main.py
+Open Quizgame start and go to main.py
